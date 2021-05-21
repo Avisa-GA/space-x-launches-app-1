@@ -23,7 +23,7 @@ A simple web app for visualizing Space X Launch Data
 
 ## Getting Started
 
-[Click here](#) to see working app
+[Click here](https://mydeveloperjourney.github.io/space-x-launches-app/) to see working app
 
 
 ## Future Enhancements
