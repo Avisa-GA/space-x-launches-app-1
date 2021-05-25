@@ -18,6 +18,7 @@ A simple web app for visualizing Space X Launch Data
 
 ### Wireframes
 ![screenshot](imgs/wireframe.png)
+![screenshot](imgs/wireframe2.png)
 
 ### Images of Working App
 
@@ -27,6 +28,4 @@ A simple web app for visualizing Space X Launch Data
 
 
 ## Future Enhancements
-- Show the launch patch for every launch
-- Show launch details in a popup modal
 - Allow a user to save their favorite launches
