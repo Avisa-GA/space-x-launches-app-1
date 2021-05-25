@@ -19,8 +19,15 @@ header, footer {
 header {
     background-color: #8fa8f2;
     color: #ffffff;
-    padding-left: 15px;
+    padding: 0 15px;
     box-shadow: 1px 1px 2px 1px #808080;
+    justify-content: space-between;
+}
+
+header > a {
+    color: #ffffff;
+    text-transform: capitalize;
+    font-weight: 700;
 }
 
 footer {
@@ -45,4 +52,15 @@ article {
     justify-content: space-evenly;
     padding-left: 15px;
     margin: 10px;
+}
+
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.content-wrapper img {
+    max-height: 256px;
+    margin-left: 10px;
 }
